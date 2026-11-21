@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Divyeshsinh Chauhan
+# Divyesh Chauhan
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Learning+%7C+Building+%7C+Improving;Turning+Ideas+Into+Digital+Experiences" alt="Animated introduction" />
