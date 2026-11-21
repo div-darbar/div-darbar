@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-Hello! I'm **Divyesh Chauhan**, an aspiring Full-Stack Developer from Surat, Gujarat, India.
+Hello! I'm **Divyesh Chauhan**, an aspiring Full-Stack Developer.
 
 I'm passionate about technology, software development, and creating useful digital experiences.
 
@@ -42,7 +42,7 @@ Currently, I'm focused on learning full-stack development, strengthening my tech
 - Exploring full-stack development.
 - Learning through hands-on projects.
 - Interested in web applications and digital automation.
-- Building my personal developer brand.
+- Building myself as personal developer brand.
 - Always learning and improving.
 
 ### Current Focus
